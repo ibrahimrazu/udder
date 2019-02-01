@@ -32,12 +32,12 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="khalil" translatesAutoresizingMaskIntoConstraints="NO" id="GE8-0U-ncB">
-                                <rect key="frame" x="33" y="241" width="320" height="416"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="IMG_1986" translatesAutoresizingMaskIntoConstraints="NO" id="44q-x3-yA9">
+                                <rect key="frame" x="16" y="195" width="343" height="452"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Ibrahim Khalil" textAlignment="justified" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="98t-36-yot">
-                                <rect key="frame" x="120" y="181" width="103" height="21"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Is it looking nice?" textAlignment="justified" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CXO-iZ-nY8">
+                                <rect key="frame" x="101" y="157" width="186" height="25"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -57,6 +57,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="khalil" width="770" height="1024"/>
+        <image name="IMG_1986" width="2320" height="3088"/>
     </resources>
 </document>
